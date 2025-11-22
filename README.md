@@ -11,7 +11,8 @@ This was my first time using KiCAD, and wiring the PCB was a pain. I had to redo
 - 4x Blank DSA Keycaps
 - 4x M3x16 Bolt
 - 4x M3 Heatset
-<img width="1774" height="469" alt="image" src="https://github.com/user-attachments/assets/ba262f02-066d-4d3d-81b3-5b02d45f7a11" />
+<img width="1774" height="463" alt="image" src="https://github.com/user-attachments/assets/abd37b0e-f1aa-45bb-b3b4-68115c0611cd" />
+
 
 
 
