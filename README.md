@@ -1,10 +1,10 @@
 # dizzles-hackpad
 MACROPAD FOR BLUEPRINT YAYAY- I created a macropad using 5 switches, 1 RP2040, and 2 LEDs. I followed the tutorial to a T and simply added an extra switch, but this is version 1 of hopefully more versions to come!
 
-#Challenges
+## Challenges
 This was my first time using KiCAD, and wiring the PCB was a pain. I had to redo it around seven times because I kept missing one route. This is my very first Hackpad, I'm planning to make more complex ones in the future :)
 
-#BOM:
+## BOM:
 5x Cherry MX Switches
 2x SK6812 MINI Leds
 1x XIAO RP2040
@@ -12,7 +12,7 @@ This was my first time using KiCAD, and wiring the PCB was a pain. I had to redo
 4x M3x16 Bolt
 4x M3 Heatset
 
-#Others:
+## Others:
 KMK Firmware
 Top Case.stl
 Bottom Case.stl
