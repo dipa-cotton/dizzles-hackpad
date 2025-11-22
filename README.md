@@ -12,7 +12,9 @@ This was my first time using KiCAD, and wiring the PCB was a pain. I had to redo
 - 4x M3x16 Bolt
 - 4x M3 Heatset
 <img width="1774" height="463" alt="image" src="https://github.com/user-attachments/assets/abd37b0e-f1aa-45bb-b3b4-68115c0611cd" />
-
+<img width="985" height="824" alt="image" src="https://github.com/user-attachments/assets/d16bd1e8-5d70-4429-831c-51f9f866b1c0" />
+<img width="1186" height="842" alt="image" src="https://github.com/user-attachments/assets/b247291d-239a-4b50-8a47-00408baa35ec" />
+ITS SO EXPENSIVE T-T everything comes in bulk but I'm planning to make more macropads in the future so at least they'll be put to use- OR LMK IF YOU CAN FIND ANYTHING CHEAPER
 
 
 
